@@ -1,13 +1,11 @@
-Hello, I am 蕭佑丞 （Siu Yau Shing）, also known as Shiloh. Born in Hong Kong
-
-Currently studying at The Hong Kong Polytechnic University as a undergraduate student in the Bachelor of Comupter Science Scheme
+Hello, I am 蕭佑丞 （Siu Yau Shing）, Shiloh. Born in Hong Kong. I am pursuing a Bachelor of Science in Computing and AI at The Hong Kong Polytechnic University.
 
 Graduated in 2023 from Po Leung Kuk Choi Kai Yau School with an IB Bilingual Diploma
 
-Currently Learning AI and Algorithims utilising Python
+Know Python, C in Operating Systems and C++
 
-Looking for more coding experience in differnet languages
+Learning AI using Python in my spare time
 
-Ask me about studying in IB and IGCSE
+I'm interested in using ML to help develop Smart Cities and Eco-Cities in the future
 
 
