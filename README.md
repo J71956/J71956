@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siu Yau Shing, Shiloh</h1>
-<h3 align="center">A student studying Bachelor of Science in Fintech and AI with a Minor in Applied Psychology in The Hong Kong Polytechnic University</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j71956&label=Profile%20views&color=0e75b6&style=flat" alt="j71956" /> </p>
+<h1 align="center">Hi, I'm Siu Yau Shing, Shiloh</h1>
+<h3 align="center">A student of Bachelor of Science in Fintech and AI with a Minor in Applied Psychology in The Hong Kong Polytechnic University</h3>
 
 - 🌱 I’m currently learning **Data Structures, OOP, Database Structures**
 
