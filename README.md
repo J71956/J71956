@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Siu Yau Shing, Shiloh</h1>
+<h1 align="center">Hi, I'm Siu Yau Shing (蕭佑丞), Shiloh</h1>
 <h3 align="center">A student of Bachelor of Science in Fintech and AI with a Minor in Applied Psychology in The Hong Kong Polytechnic University</h3>
 
-- 🌱 I’m currently learning **Data Structures, OOP, Database Structures**
 
-- 📫 How to reach me **shilohsiu0@gmail.com**
+
+- 📫 How to reach me: **shilohsiu0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
