@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Siu Yau Shing (蕭佑丞), Shiloh</h1>
-<h3 align="center">A student of Bachelor of Science in Fintech and AI with a Minor in Applied Psychology in The Hong Kong Polytechnic University</h3>
+<h2 align="centre">I'm going on an exchange semester in ther Univerisity of Waterloo in Jan-Apr in 2025! <h2>
+<h3 align="center">A student of Bachelor of Science in Fintech and AI in The Hong Kong Polytechnic University, graduating in 2027!</h3>
+
+<p align="center">Currently Studying BI and CRM, E-Commerce and Software Engineering</p>
+<p align="center">Studied Big Data Analytics, Data Structures, Discrete Mathematics, OOP, Database Structures, Accounting Finance, Buisness Finance</p>
 
 
 
@@ -11,7 +15,6 @@
 </p>
 <h1><h1>
 <h3 align="left">Languages and Tools:</h3>
-## 💻 Skills
 
 ---
 
