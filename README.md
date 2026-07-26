@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: **shilohsiu0@gmail.com**
 <h1 align="center">
-  <a href="https://polite-coast-05b253e1e.6.azurestaticapps.net/">My Personal Website Built With Azure</a>
 </h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
